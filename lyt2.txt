@@ -1,0 +1,12 @@
+#Segments
+20:4
+5:26
+20:4
+50:5
+#Settings
+U_Source_SR:1:50:8
+I_Syn:1:50:6
+I_TO:1:50:3
+U_TO:1:50:-6
+TO:1:50:-9
+r_Drive_TO:1:50:-2
